@@ -33,3 +33,14 @@ Lecture 2.05.26
 
 Extended the vector state into 4D -> use 4th d for translations , operations which preserve translational symmetry (s.a. rotation) will just extend a_n,n with W, then devide vector by W -> [x/W, y/w , 1] 
 
+
+Lecture 9.02.2026
+
+### Viewing 
+
+- 6: parallel projection is simpler case and is used at camera dist -> inf 
+- 21: VUP fixes the rotation 
+
+### 10 : Projection 
+
+Lecture 16.03.2026

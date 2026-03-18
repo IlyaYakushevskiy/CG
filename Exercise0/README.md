@@ -1,4 +1,4 @@
-## note to meself
+## notes to meself
 create a folder build and -> 
 ```
 cd build 
