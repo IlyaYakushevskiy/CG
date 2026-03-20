@@ -1,0 +1,6 @@
+/Users/ilyayakushevskiy/Desktop/CG/Exercise2/build/CMakeFiles/Exercise2.dir
+/Users/ilyayakushevskiy/Desktop/CG/Exercise2/build/CMakeFiles/edit_cache.dir
+/Users/ilyayakushevskiy/Desktop/CG/Exercise2/build/CMakeFiles/rebuild_cache.dir
+/Users/ilyayakushevskiy/Desktop/CG/Exercise2/build/imgui/CMakeFiles/imgui.dir
+/Users/ilyayakushevskiy/Desktop/CG/Exercise2/build/imgui/CMakeFiles/edit_cache.dir
+/Users/ilyayakushevskiy/Desktop/CG/Exercise2/build/imgui/CMakeFiles/rebuild_cache.dir
