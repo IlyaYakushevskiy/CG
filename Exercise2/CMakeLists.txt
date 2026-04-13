@@ -1,11 +1,13 @@
-cmake_minimum_required(VERSION 3.25)
+cmake_minimum_required(VERSION 3.14)
 
 set(CMAKE_TOOLCHAIN_FILE ${CMAKE_CURRENT_SOURCE_DIR}/../vcpkg/scripts/buildsystems/vcpkg.cmake CACHE STRING "vcpkg toolchain file")
 
-project(exercise)
-
+project(Exercise2)
 set(CMAKE_CXX_STANDARD 17)
-add_compile_options(-Wall -Wextra -Wno-unused-result)
+
+set(CMAKE_IGNORE_PATH "/usr/X11R6/include" "/usr/X11R6/lib" "/opt/X11")
+# Force CMake to prioritize Apple Frameworks
+set(CMAKE_FIND_FRAMEWORK FIRST)
 
 find_package(GLEW REQUIRED)
 find_package(glfw3 REQUIRED)

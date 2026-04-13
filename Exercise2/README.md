@@ -16,6 +16,8 @@
 
     - Apply rotation, translation, and scaling to a shape object by implementing the transformation functions provided in the `Shape` class.
 
+    done
+
 2. Cube Animation
 
     To check the implementation of the previous transformations, animate the cube so that it

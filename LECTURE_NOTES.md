@@ -44,3 +44,13 @@ Lecture 9.02.2026
 ### 10 : Projection 
 
 Lecture 16.03.2026
+
+### 14 Texturing 
+
+We need parametric coords to realise locaro coord on manifold 
+
+Prpblems:  no 3d obj can be flattened without distorion : e.g. lambert's earth projection 
+
+- mipmap is used in anti-aliasing , the further object gets from the camera -- we interpolate to reduce the resolution of tecture based on the distance. Aliasing occures when the frequancy of the pattern increases due to distance -> creause wiggly distortions
+
+
