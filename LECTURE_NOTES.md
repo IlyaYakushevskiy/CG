@@ -54,3 +54,12 @@ Prpblems:  no 3d obj can be flattened without distorion : e.g. lambert's earth p
 - mipmap is used in anti-aliasing , the further object gets from the camera -- we interpolate to reduce the resolution of tecture based on the distance. Aliasing occures when the frequancy of the pattern increases due to distance -> creause wiggly distortions
 
 
+### 15 : Bump Mapping
+
+- does not affect rendering of the surface, but modifies the normals by taking derivatives of the bump map. 
+- Normal Perturbation requires more complex map but 
+
+
+### 17: Shadows
+
+- light buffer is reconstructed from the "z-buffer" , the depth buffer updated in the camera  
